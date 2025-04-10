@@ -53,4 +53,4 @@ Shows real-world application of machine learning in fighting misinformation
 📢 Let’s Connect
 If you’re interested in this project or want to collaborate, feel free to reach out to me:
 
-📘 LinkedIn: linkedin.com/in/alwaysramesh
+📘 LinkedIn: [linkedin.com/in/alwaysramesh](https://www.linkedin.com/in/rameshkukmarprajapati/)
